@@ -37,8 +37,8 @@ LabyrinthのReadme
 ## 使用素材
 
 * 画像
- * イラストイメージ様
- * 素材ラボ様
- * SILHOUETTE ILLUST様
+  * イラストイメージ様
+  * 素材ラボ様
+  * SILHOUETTE ILLUST様
 * 音声
- * 効果音ラボ様
+  * 効果音ラボ様
